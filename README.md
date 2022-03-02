@@ -1,1 +1,1 @@
-0x00. Shell, basics
+** This repo contains 0x00. Shell basics and bash projects**
