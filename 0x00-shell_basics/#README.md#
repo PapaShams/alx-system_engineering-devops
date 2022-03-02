@@ -1,0 +1,2 @@
+root@87f2e4187bcc:~/alx-system_engineering-devops/0x00-shell_basics# emacs
+77;30502;0ca script that prints the absolute path name of the current working directory.
